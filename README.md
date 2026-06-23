@@ -69,3 +69,8 @@ The system manages clients, banking transactions, users, permissions, and curren
 ## Purpose
 
 This project was built to practice developing a complete banking system that combines database design, business logic, user management, financial transactions, and desktop application development.
+
+## Demo
+
+Watch the system demo: https://youtu.be/MhsAUrsLqX8
+
